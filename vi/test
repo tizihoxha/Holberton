@@ -1,0 +1,7 @@
+Test
+vi <filename>
+:wq
+dd
+:w save but kepp file open 
+c -y
+/followed by the string you want to search for

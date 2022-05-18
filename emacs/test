@@ -1,0 +1,6 @@
+C-x C-F
+C-x S
+C-w
+M-w
+ ESC x replace-string RETURN, then type the search string and press RETURN
+ C-s
